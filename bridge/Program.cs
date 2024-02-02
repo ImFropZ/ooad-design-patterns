@@ -1,7 +1,9 @@
 ﻿using bridge.abstracts;
 using bridge.implementation;
 
-static class Program
+namespace bridge;
+
+internal static class Program
 {
     static void Main(string[] args)
     {
