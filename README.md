@@ -14,4 +14,7 @@ This content is in the 24th generation of RUPP in Y4 Computer Science and Engine
 - [Singleton Pattern](./singleton)
 - [Builder Pattern](./builder)
 
+### Behavioral Patterns
+- [Strategy Pattern](./strategy)
+
 Warning ⚠️: This content is not for commercial use. It is only for educational purpose. If there are any issues, please contact me via issues tab: [Issues](/issues)
